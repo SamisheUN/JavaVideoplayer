@@ -31,7 +31,7 @@ public class Scanner {
         return fileList;
     }
 
-    private  void parseTxt(String TxtPath) {
-
+    private ArrayList<String> parseTxt(String TxtPath) {
+        return null;
     }
 }
